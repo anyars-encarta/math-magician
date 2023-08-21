@@ -9,7 +9,7 @@
 
 <!-- MAIN HEADING -->
 
-  <h3><b>Reac App</b></h3>
+  <h3><b>React App</b></h3>
 
 </div>
 
