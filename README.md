@@ -4,12 +4,12 @@
 
  <!-- LOGO -->
 
-  <img src="/public/logo512.png" alt="logo" width="140"  height="auto" />
+  <img src="./src/My Logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
 <!-- MAIN HEADING -->
 
-  <h3><b>React App</b></h3>
+  <h3><b>Encarta Math Magician</b></h3>
 
 </div>
 
@@ -37,9 +37,9 @@
 - [📝 License](#license)
 
 <!-- INTRO -->
-# 📖 React App <a name="about-project"></a>
+# 📖 Encarta Math Magician <a name="about-project"></a>
 
-> This is a new React App.
+> This is a Math Magician app designed to handle and perform mathematical calculations.
 
 ## 🛠 Built With <a name="built-with"></a>
 1. React
@@ -64,7 +64,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> - Display animated react logo
+> - Perform simple and complex mathematical calculations
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +72,7 @@
 
 LIVE DEMO
 
-> -
+> Coming soon...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,14 +80,16 @@ LIVE DEMO
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> To get a local copy up and running, follow these steps.
+> To get a local copy of the project, use this link:
+```https://github.com/anyars-encarta/math-magician.git
+```
 
 <!-- SETUP -->
 ### Setup
 
 To setup this project, run this command:
 
-```npm run test
+```npm start
 ```
 ### Prerequisites
 
@@ -130,9 +132,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **Add a calculator feature**
+- [ ] **Add calculation features**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,13 +161,13 @@ Contributions, issues, and feature requests are welcome!
 <!-- FAQS -->
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-- **How were the Linters utilised?**
+- **How were the React and Linters utilised?**
 
   - The React and Linters were utilised with the help of resources provided by [@microverseinc](https://github.com/microverseinc).
 
 - **What new features should be expected in the next release of the project?**
 
-  - I am currently working on adding **a calculator feature**
+  - I am currently working on adding **Calculation features**.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
