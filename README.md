@@ -1,46 +1,180 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+ <!-- LOGO -->
 
-In the project directory, you can run:
+  <img src="/public/logo512.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-### `npm start`
+<!-- MAIN HEADING -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <h3><b>Reac App</b></h3>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+</div>
 
-### `npm test`
+<!-- TABLE OF CONTENTS -->
+# 📗 Table of Contents
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-### `npm run build`
+<!-- INTRO -->
+# 📖 React App <a name="about-project"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> This is a new React App.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠 Built With <a name="built-with"></a>
+1. React
+2. CSS
+3. JavaScript
+4. Webpack
+### Tech Stack <a name="tech-stack"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> Tech Stack to be updated soon
 
-### `npm run eject`
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React</a></li>
+    <li><a href="https://reactjs.org/">CSS</a></li>
+    <li><a href="https://reactjs.org/">JavaScript</a></li>
+    <li><a href="https://reactjs.org/">Webpack</a></li>
+  </ul>
+</details>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<!-- Features -->
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Key Features <a name="key-features"></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+> - More omprovements coming soon
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Learn More
+<!-- LIVE DEMO -->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+LIVE DEMO
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+> Visit the [Live](https://anyars-encarta.github.io/math-magician/dist/) page of this Project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> To get a local copy up and running, follow these steps.
+
+<!-- SETUP -->
+### Setup
+
+To setup this project, run this command:
+
+```npm run test
+```
+### Prerequisites
+
+1. A Browser (Preferably Google Chrome)
+2. A Code Editor
+3. Internet Connection
+4. Git
+
+<!-- INSTALL -->
+### Install
+
+Install this project with Iroko.
+
+### Usage
+
+To run the project, execute the following command:
+
+### Run tests
+> npm run test
+### Deployment
+
+You can deploy this project using:
+>1.  GitHub Pages
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Anyars Yussif**
+
+- GitHub: [@anyars-encarta](https://github.com/anyars-encarta)
+- Twitter: [@anyarsencarta](https://twitter.com/anyarsencarta)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anyars-yussif-1a179769/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **More features to be added soon**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTION -->
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!--SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> If you like this project, please give it some starts ⭐️⭐️⭐️⭐️⭐️
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Special acknowledgement to [@microverseinc](https://github.com/microverseinc)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQS -->
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+- **How were the Linters utilised?**
+
+  - The React and Linters were utilised with the help of resources provided by [@microverseinc](https://github.com/microverseinc).
+
+- **What new features should be expected in the next release of the project?**
+
+  - I am currently working on adding **more features**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
