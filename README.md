@@ -81,16 +81,19 @@ LIVE DEMO
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > To get a local copy of the project, use this link:
-```https://github.com/anyars-encarta/math-magician.git
-```
+> 
+`
+https://github.com/anyars-encarta/math-magician.git
+`
+
 
 <!-- SETUP -->
 ### Setup
 
 To setup this project, run this command:
 
-```npm start
-```
+``npm start
+``
 ### Prerequisites
 
 1. A Browser (Preferably Google Chrome)
