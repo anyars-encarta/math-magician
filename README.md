@@ -110,6 +110,8 @@ Install this project with Iroko.
 
 To run the project, execute the following command:
 
+``npm start
+``
 ### Run tests
 > npm run test
 ### Deployment
