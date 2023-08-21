@@ -64,7 +64,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> - More omprovements coming soon
+> - Display animated react logo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +72,7 @@
 
 LIVE DEMO
 
-> Visit the [Live](https://anyars-encarta.github.io/math-magician/dist/) page of this Project.
+> -
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +132,7 @@ You can deploy this project using:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **More features to be added soon**
+- [ ] **Add a calculator feature**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,7 +167,7 @@ Contributions, issues, and feature requests are welcome!
 
 - **What new features should be expected in the next release of the project?**
 
-  - I am currently working on adding **more features**
+  - I am currently working on adding **a calculator feature**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
