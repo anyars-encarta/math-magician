@@ -24,7 +24,8 @@ body {
   width: 500px;
 }
 
-.header {
+.header,
+button {
   font-size: 20px;
 }
 
@@ -64,8 +65,10 @@ body {
 
 button {
   height: 60px;
+  font-weight: bold;
 }
 
 .side {
   background-color: chocolate;
+  color: #fff;
 }
