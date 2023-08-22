@@ -4,7 +4,7 @@
 
  <!-- LOGO -->
 
-  <img src="./src/My Logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./src/assets/My Logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
 <!-- MAIN HEADING -->
@@ -82,9 +82,10 @@ LIVE DEMO
 
 > To get a local copy of the project, use this link:
 > 
-`
+```sh
+cd math-magician
 https://github.com/anyars-encarta/math-magician.git
-`
+```
 
 
 <!-- SETUP -->
@@ -92,8 +93,9 @@ https://github.com/anyars-encarta/math-magician.git
 
 To setup this project, run this command:
 
-``npm start
-``
+```sh
+npm start
+```
 ### Prerequisites
 
 1. A Browser (Preferably Google Chrome)
@@ -110,10 +112,14 @@ Install this project with Iroko.
 
 To run the project, execute the following command:
 
-``npm start
-``
+```sh
+npm start
+```
 ### Run tests
-> npm run test
+To test the project, execute the following command:
+```sh
+npm run test
+```
 ### Deployment
 
 You can deploy this project using:
