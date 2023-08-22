@@ -4,7 +4,7 @@
 
  <!-- LOGO -->
 
-  <img src="./src/My Logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./src/assets/My Logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
 <!-- MAIN HEADING -->
