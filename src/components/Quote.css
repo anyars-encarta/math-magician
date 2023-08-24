@@ -23,11 +23,11 @@ body {
   padding: 10px;
 }
 
-h1{
+h1 {
   margin-bottom: 20px;
 }
 
-h1, 
+h1,
 .quote,
 .author-category,
 .loading {
@@ -36,8 +36,9 @@ h1,
 }
 
 .loading {
-  color:blue;
+  color: blue;
 }
+
 .quote {
   color: red;
   font-style: italic;
