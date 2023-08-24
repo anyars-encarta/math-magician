@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './Quote.css';
 
-const uniqueID = 'a9QE8/PlmKOlgKno2cRt+w==r6HotYq9EvHchYmD';
+const uniqueID = '8YHMipVLjkYiF4KOWb7GUYqkO6VXXgcUK3qQJEAI';
 
 function Quote() {
   const apiUrl = 'https://api.api-ninjas.com/v1/quotes';
