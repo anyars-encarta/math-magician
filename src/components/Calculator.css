@@ -29,6 +29,11 @@ button {
   font-size: 20px;
 }
 
+.header {
+  text-align: center;
+  margin-right: 180px;
+}
+
 .calculator {
   display: grid;
   grid-template-rows: minmax(4rem, auto) repeat(5, 1fr);
