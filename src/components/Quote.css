@@ -19,18 +19,32 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.main {
-  margin-left: 10px;
+.quote-container {
+  padding: 10px;
+}
+
+h1{
+  margin-bottom: 20px;
 }
 
 h1, 
 .quote,
-.author-category {
+.author-category,
+.loading {
   font-size: 30px;
   text-align: center;
 }
 
+.loading {
+  color:blue;
+}
 .quote {
   color: red;
   font-style: italic;
+  margin-bottom: 30px;
+}
+
+hr {
+  margin: 0 auto;
+  width: 300px;
 }
