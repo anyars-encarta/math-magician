@@ -21,7 +21,7 @@ body {
 
 .main {
   float: right;
-  width: 500px;
+  width: 50%;
 }
 
 .header,
@@ -29,13 +29,18 @@ button {
   font-size: 20px;
 }
 
+.header {
+  text-align: center;
+  font-size: 30px;
+}
+
 .calculator {
   display: grid;
   grid-template-rows: minmax(4rem, auto) repeat(5, 1fr);
   grid-template-columns: repeat(4, 5rem);
   padding: 5px;
-  margin-right: 6rem;
-  margin-right: auto;
+  align-items: center;
+  justify-content: center;
 }
 
 .cal-answer {
