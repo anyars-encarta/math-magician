@@ -6,6 +6,7 @@ function Quote() {
     <div className="quote-container">
       <h1 className="quote-header">Encarta Maths Magician - Quote of the Day!</h1>
       <p className="quote">Sample Quote</p>
+      <p className="author-category">Author, Category</p>
     </div>
   );
 }
