@@ -1,4 +1,11 @@
 import Calculator from './components/Calculator';
 import Quote from './components/Quote';
 
-export default { Calculator, Quote };
+const App = () => (
+  <>
+    <Calculator />
+    <Quote />
+  </>
+);
+
+export default App;
