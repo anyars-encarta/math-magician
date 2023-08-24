@@ -61,7 +61,7 @@ function Quote() {
   };
 
   useEffect(() => {
-    const timer = setInterval(fetchQuote, 5000); // Change quote every 5 seconds (adjust as needed)
+    const timer = setInterval(fetchQuote, 30000); // Change quote every 30 seconds
 
     return () => clearInterval(timer); // Clear the timer on component unmount
   }, []); // Empty dependency array to run only once on initial component mount

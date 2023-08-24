@@ -184,6 +184,6 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/anyars-encarta/math-magician/commit/1ee39ce4aaba067036c17505eac96a3f3889a713) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
