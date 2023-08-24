@@ -1,4 +1,4 @@
 import Calculator from './components/Calculator';
-import Quote from './components/Quotes';
+import Quote from './components/Quote';
 
 export default { Calculator, Quote };
