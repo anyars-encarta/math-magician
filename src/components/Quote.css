@@ -30,13 +30,18 @@ h1 {
 h1,
 .quote,
 .author-category,
-.loading {
+.loading,
+.error {
   font-size: 30px;
   text-align: center;
 }
 
 .loading {
   color: blue;
+}
+
+.error {
+  color: red;
 }
 
 .quote {
