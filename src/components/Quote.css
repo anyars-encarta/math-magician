@@ -40,12 +40,12 @@ h1,
   color: blue;
 }
 
+.quote,
 .error {
   color: red;
 }
 
 .quote {
-  color: red;
   font-style: italic;
   margin-bottom: 30px;
 }
