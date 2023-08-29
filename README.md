@@ -48,8 +48,6 @@
 4. Webpack
 ### Tech Stack <a name="tech-stack"></a>
 
-> Tech Stack to be updated soon
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -65,14 +63,6 @@
 ### Key Features <a name="key-features"></a>
 
 > - Perform simple and complex mathematical calculations
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-LIVE DEMO
-
-> Coming soon...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
