@@ -13,10 +13,6 @@ const App = () => (
       <Route path="/quote" element={<Quote />} />
     </Routes>
   </>
-  // <>
-  //   <Calculator />
-  //   <Quote />
-  // </>
 );
 
 export default App;
