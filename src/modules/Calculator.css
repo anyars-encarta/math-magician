@@ -20,8 +20,8 @@ body {
 }
 
 .main {
-  float: right;
-  width: 50%;
+  width: 60%;
+  margin: 0 auto;
 }
 
 .header,
@@ -31,7 +31,8 @@ button {
 
 .header {
   text-align: center;
-  font-size: 30px;
+  font-size: 50px;
+  color: #fff;
 }
 
 .calculator {
@@ -41,6 +42,21 @@ button {
   padding: 5px;
   align-items: center;
   justify-content: center;
+}
+
+.calcSection {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header,
+.calcSection h2 {
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.calcSection h2 {
+  color: white;
+  font-size: 40px;
 }
 
 .cal-answer {
@@ -54,6 +70,8 @@ button {
   margin-right: 1px;
   width: 20rem;
   height: 3.5rem;
+  color: #ffff;
+  text-shadow: 1px 1px 2px black;
 }
 
 .answer {
