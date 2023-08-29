@@ -1,0 +1,46 @@
+body {
+  background-image: linear-gradient(0.25turn, rgb(15, 15, 15), rgba(0, 0, 0, 0.5)), url(../assets/mathematics.jpg);
+}
+
+.Active {
+  color: red;
+}
+
+.navbar,
+nav {
+  display: flex;
+  gap: 30px;
+  background-color: rgb(145, 255, 0);
+}
+
+.navbar {
+  justify-content: space-between;
+  padding: 10px 150px 10px 150px;
+  box-shadow: 0 2px 4px 0 rgba(252, 250, 250, 5.959);
+}
+
+.header {
+  color: rgb(104, 104, 122);
+}
+
+nav {
+  list-style-type: none;
+}
+
+li {
+  font-size: 25px;
+}
+
+.navLink {
+  text-decoration: none;
+  transition: 0.7s ease;
+}
+
+.navLink:hover {
+  color: #fff;
+  filter: opacity(0.5) drop-shadow(0 0 #fff);
+}
+
+.navLink::after {
+  content: " | ";
+}
