@@ -8,9 +8,11 @@ const App = () => (
   <>
     <Navbar />
     <Routes>
-      <Route path="/math-magician" element={<Home />} />
+      <Route path="/home" element={<Home />} />
       <Route path="/calculator" element={<Calculator />} />
       <Route path="/quote" element={<Quote />} />
+      {/* Set home route as default */}
+      <Route path="/" element={<Home />} default />
     </Routes>
   </>
 );
