@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import './Quote.css';
+import '../modules/Quote.css';
 
 const uniqueID = '8YHMipVLjkYiF4KOWb7GUYqkO6VXXgcUK3qQJEAI';
 
@@ -41,7 +41,7 @@ function Quote() {
 
   return (
     <div className="quote-container">
-      <h1 className="quote-header">Encarta Maths Magician - Quotes of the Day!</h1>
+      <h1 className="quote-header">Quotes of the Day!</h1>
       {isLoading && <p className="loading">Loading Quote...</p>}
       {hasError && <p className="error">Something went wrong!</p>}
 

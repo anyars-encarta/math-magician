@@ -1,0 +1,24 @@
+.home {
+  max-width: 70%;
+  margin: 0 auto;
+  margin-top: 40px;
+  background-color: rgba(126, 119, 119, 0.816);
+  height: auto;
+  padding: 10px;
+}
+
+p {
+  color: rgb(145, 255, 0);
+  font-size: 20px;
+}
+
+.followContainer {
+  display: flex;
+  gap: 10px;
+}
+
+img {
+  width: 40px;
+  height: 40px;
+  border-radius: 100px;
+}
