@@ -52,9 +52,9 @@
   <summary>Client</summary>
   <ul>
     <li><a href="https://reactjs.org/">React</a></li>
-    <li><a href="https://reactjs.org/">CSS</a></li>
-    <li><a href="https://reactjs.org/">JavaScript</a></li>
-    <li><a href="https://reactjs.org/">Webpack</a></li>
+    <li><a href="https://www.w3.org/">CSS</a></li>
+    <li><a href="https://www.javascript.com/">JavaScript</a></li>
+    <li><a href="https://webpack.js.org/">Webpack</a></li>
   </ul>
 </details>
 
