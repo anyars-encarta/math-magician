@@ -8,7 +8,7 @@ const App = () => (
   <>
     <Navbar />
     <Routes>
-      <Route path="/" element={<Home />} />
+      <Route path="/math-magician" element={<Home />} />
       <Route path="/calculator" element={<Calculator />} />
       <Route path="/quote" element={<Quote />} />
     </Routes>
