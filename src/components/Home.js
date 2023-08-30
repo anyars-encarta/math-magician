@@ -9,6 +9,7 @@ import YouTube from '../assets/YouTube.png';
 function Home() {
   return (
     <div className={styles.home}>
+      <h2>Welcome to our page!</h2>
       <p className={styles.p}>
         Encarta Math Magicians is an app developed by Anyars Yussif, a Full
         Stack Software Development student at Microverse. Microverse is an

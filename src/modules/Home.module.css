@@ -7,6 +7,11 @@
   padding: 10px;
 }
 
+h2 {
+  color: rgb(145, 255, 0);
+  margin-bottom: 10px;
+}
+
 p {
   color: rgb(145, 255, 0);
   font-size: 20px;
