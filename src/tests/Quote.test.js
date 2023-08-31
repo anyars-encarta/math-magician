@@ -20,7 +20,7 @@ describe('Quote component', () => {
   });
 
   it('displays error state when API call fails', async () => {
-    global.fetch = jest.fn(() => Promise.reject('API error'));
+    global.fetch = jest.fn(() => Promise.reject(new Error('API error')));
     render(<Quote />);
     await waitFor(() => expect(screen.getByText('Something went wrong!')).toBeInTheDocument());
   });
