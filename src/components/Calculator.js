@@ -21,7 +21,9 @@ function Calculator() {
       <div className="calcSection">
         <h2>Let&apos;s do some math!</h2>
         <div className="calculator">
-          <div className="cal-answer">{calculatorData.next || calculatorData.total || '0'}</div>
+          <div className="cal-answer" data-testid="calc-answer">
+            {calculatorData.next || calculatorData.total || '0'}
+          </div>
           <CalculatorButton onClick={() => handleClick('AC')}>AC</CalculatorButton>
           <CalculatorButton onClick={() => handleClick('+/-')}>+/-</CalculatorButton>
           <CalculatorButton onClick={() => handleClick('%')}>%</CalculatorButton>

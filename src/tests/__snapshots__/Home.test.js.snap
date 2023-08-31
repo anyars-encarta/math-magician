@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches Home component snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="home"
+  >
+    <h2>
+      Welcome to our page!
+    </h2>
+    <p
+      class="p"
+    >
+      Encarta Math Magicians is an app developed by Anyars Yussif, a Full Stack Software Development student at Microverse. Microverse is an online school that uses peer-programming and project building to teach.
+      <br />
+      <br />
+      Encarta Maths Magicians is a Calculator app that performs arithmetic calculations. The page has been devided into three sections: 
+      <strong>
+        Home
+      </strong>
+      , 
+      <strong>
+        Calculator
+      </strong>
+      , and 
+      <strong>
+        Quote
+      </strong>
+      .
+      <br />
+      <br />
+      The Home section displays basic information about the author as well as what the app does. The Calculator section displays the calculator which you can use to perform arithmetic calculations. The Quote sections displays quotes fetched from API Ninjas. Every displayed quote refreshes after every 15 seconds to display a new quote.
+      <br />
+      <br />
+      Have fun using 
+      <strong>
+        Encarta Math Magicians!
+      </strong>
+      <br />
+      <br />
+      Follow the Author on:
+    </p>
+    <br />
+    <div
+      class="followContainer"
+    >
+      <a
+        class="follow"
+        href="https://github.com/anyars-encarta"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img
+          alt="GitHub logo"
+          src="GitHub.png"
+        />
+      </a>
+      <br />
+      <a
+        class="follow"
+        href="https://www.linkedin.com/in/anyars-yussif-1a179769/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img
+          alt="Linkedin logo"
+          src="Linkedin.png"
+        />
+      </a>
+      <br />
+      <a
+        class="follow"
+        href="https://twitter.com/anyarsencarta"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img
+          alt="Twitter logo"
+          src="Twitter.png"
+        />
+      </a>
+      <br />
+      <a
+        class="follow"
+        href="https://web.facebook.com/encartadegreat?_rdc=1&_rdr"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img
+          alt="Facebook logo"
+          src="Facebook.png"
+        />
+      </a>
+      <br />
+      <a
+        class="follow"
+        href="https://www.youtube.com/channel/UC8ROvrdEomu6xYI0HrzT61A"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img
+          alt="Youtube logo"
+          src="YouTube.png"
+        />
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;

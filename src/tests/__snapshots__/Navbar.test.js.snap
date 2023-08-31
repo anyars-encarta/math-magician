@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar matches the Navbar component snapshot 1`] = `
+<div>
+  <div
+    class="navbar"
+  >
+    <h1
+      class="header"
+    >
+      Encarta Math Magicians
+    </h1>
+    <nav>
+      <li>
+        <a
+          class="navLink"
+          href="/home"
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          class="navLink"
+          href="/calculator"
+        >
+          Calculator
+        </a>
+      </li>
+      <li>
+        <a
+          class="navLink"
+          href="/quote"
+        >
+          Quote
+        </a>
+      </li>
+    </nav>
+  </div>
+</div>
+`;
