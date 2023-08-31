@@ -14,22 +14,18 @@ function Quote() {
   useEffect(() => {
     const fetchQuote = async () => {
       setIsLoading(true);
-
       try {
         const response = await fetch(apiUrl, {
           headers: {
             'X-Api-Key': uniqueID,
           },
         });
-
         if (!response.ok) {
           throw new Error(
             `API request failed with status code ${response.status}.`,
           );
         }
-
         const data = await response.json();
-
         setQuoteText(data[0].quote);
         setAuthor(data[0].author);
         setCategory(data[0].category);
@@ -39,11 +35,8 @@ function Quote() {
         setIsLoading(false);
       }
     };
-
     fetchQuote();
-
     const timer = setInterval(fetchQuote, 15000); // Change quote every 15 seconds.
-
     return () => clearInterval(timer); // Clear the timer on component unmount
   }, []); // Empty dependency array to run only once on initial component mount
 
@@ -52,6 +45,7 @@ function Quote() {
       <h1 className="quote-header">Quotes of the Day!</h1>
       {isLoading ? <p className="loading">Loading Quote...</p> : null}
       {hasError && <p className="error">Something went wrong!</p>}
+
       {!isLoading && !hasError && (
         <>
           {quoteText && (
