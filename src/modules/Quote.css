@@ -46,8 +46,10 @@ h1,
   color: blue;
 }
 
-.quote,
-.error,
+.error {
+  color: red;
+}
+
 .author-category {
   color: rgb(145, 255, 0);
 }

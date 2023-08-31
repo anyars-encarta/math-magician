@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Quote component matches snapshot 1`] = `
+<div>
+  <div
+    class="quote-container"
+  >
+    <h1
+      class="quote-header"
+    >
+      Quotes of the Day!
+    </h1>
+    <p
+      class="loading"
+    >
+      Loading Quote...
+    </p>
+  </div>
+</div>
+`;
