@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import '../modules/Quote.css';
-import { act } from 'react-dom/test-utils';
 
 const uniqueID = '8YHMipVLjkYiF4KOWb7GUYqkO6VXXgcUK3qQJEAI';
 
@@ -31,17 +30,13 @@ function Quote() {
 
         const data = await response.json();
 
-        act(() => {
-          setQuoteText(data[0].quote);
-          setAuthor(data[0].author);
-          setCategory(data[0].category);
-          setIsLoading(false); // Move this inside the act call
-        });
+        setQuoteText(data[0].quote);
+        setAuthor(data[0].author);
+        setCategory(data[0].category);
+        setIsLoading(false);
       } catch (error) {
-        act(() => {
-          setHasError(true);
-          setIsLoading(false); // Move this inside the act call
-        });
+        setHasError(true);
+        setIsLoading(false);
       }
     };
 
