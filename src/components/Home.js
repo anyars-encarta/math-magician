@@ -46,7 +46,7 @@ function Home() {
           <img src={GitHub} alt="GitHub logo" />
         </a>
         <br />
-        <a className={styles.follow} href="https://www.linkedin.com/in/anyars-yussif-1a179769/" target="_blank" rel="noreferrer">
+        <a className={styles.follow} href="https://www.linkedin.com/in/anyars-yussif/" target="_blank" rel="noreferrer">
           <img src={Linkedin} alt="Linkedin logo" />
         </a>
         <br />
