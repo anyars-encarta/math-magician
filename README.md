@@ -70,7 +70,7 @@
 
 LIVE DEMO
 
-> Visit [live](https://encarta-math-magician.onrender.com/home) page of my Profile
+> Visit [live](https://anyars-encarta.github.io/math-magician/) page of my Profile
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
